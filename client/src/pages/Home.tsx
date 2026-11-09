@@ -22,8 +22,8 @@ import {
 import { useEffect, useState, type ReactNode } from "react";
 
 const WHATSAPP = "https://wa.me/212676777790";
-const MENU_LINK = "https://bit.ly/DabaMenu";
-const DIRECTIONS_LINK = "https://bit.ly/DabaDirection";
+const MENU_LINK = "https://drive.google.com/file/d/1dNQmV44ZtwNUeAYt5zSc1OLS6duA41h7/view?usp=sharing";
+const DIRECTIONS_LINK = "https://drive.google.com/file/d/1SZn4Sx2E-tHgoUzbZ-LLAri1bZKkD2Xj/view?usp=sharing";
 const CHECKIN_LINK = "https://forms.gle/BWa8kLj9dfzGwSWz8";
 
 const RETREATS = [
